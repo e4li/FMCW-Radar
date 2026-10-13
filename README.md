@@ -5,7 +5,7 @@ Bu proje, hareketli ve sabit hedefleri algılamak, mesafe değişimlerini ölçm
 <!-- ÖNERİ: Buraya PCB'nin veya osiloskop ekranının bir fotoğrafını sürükleyip bırakabilirsiniz -->
 
 ## 🛠 Donanım Özellikleri
-* **Radar Modülü:** 24 GHz ISM bandında çalışan ve çift kanallı (I/Q) IF çıkışı veren RFbeam K-LC5 alıcı-verici.
+* **Radar Modülü:** 24 GHz ISM bandında çalışan ve çift kanallı  IF çıkışı veren RFbeam K-LC5 alıcı-verici.
 * **Kontrolcü:** Veri işleme ve modülasyon kontrolü için STM32F407G-DISC1.
 * **Analog Ön Uç (AFE):** Radar I/Q çıkışlarını koşullandırmak için TLV9062 op-amplar ile tasarlanan, 5 Hz - 5 kHz bant genişliğine ve 40 dB kazanca sahip aktif filtre devresi.
 * **Baskı Devre (PCB):** 5V Type-C besleme girişli, sistem bileşenlerini bir araya getiren 2 katmanlı özel tasarım kart.
